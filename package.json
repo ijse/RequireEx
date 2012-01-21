@@ -1,0 +1,8 @@
+{
+  "name": "requireEx",
+  "description": "Advanced for require()",
+  "version": "0.0.2",
+  "author": "ijse <i@ijser.cn>",
+  "keywords": ["require", "package", "js"],
+  "main": "./lib/index.js"
+}
